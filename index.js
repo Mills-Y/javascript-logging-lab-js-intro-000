@@ -1,3 +1,3 @@
-console.error("HeLp!");
-console.warn("WARNING!!");
-console.log("Gotta be logging me.");
+console.error("Error");
+console.log("I am a logger.");
+console.warn("WARNING");
